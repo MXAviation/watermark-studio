@@ -10,8 +10,10 @@
 
 ## 下载与使用
 
-- 前往本仓库的 **Releases** 下载 `批量水印工作台.dmg`，打开后把 App 拖进「应用程序」（也可以直接双击运行，无需安装）。
-- 仓库内也保留了一份构建产物：`dist/批量水印工作台.dmg` 与 `dist/批量水印工作台-macOS.zip`。
+- 前往 [Releases v1.0.0](https://github.com/MXAviation/watermark-studio/releases/tag/v1.0.0) 下载安装包：
+  - `WatermarkStudio-1.0.0-macOS.dmg`（Release 页面显示为「批量水印工作台.dmg」）——打开后把 App 拖进「应用程序」，也可直接双击运行，无需安装。
+  - `WatermarkStudio-1.0.0-macOS.zip` —— 解压即用。
+- 仓库内也保留了同样两份产物（中文文件名）：`dist/批量水印工作台.dmg` 与 `dist/批量水印工作台-macOS.zip`。
 - 只想快速试用网页版：直接用浏览器打开 [`app.html`](app.html) 即可，功能一致；在浏览器中下载走浏览器的普通下载流程。
 - 要求：macOS 12.0 或更新版本。App 是 arm64 / x86_64 通用二进制，已做 ad-hoc 签名。首次打开如遇系统提示，右键 →「打开」即可。
 
