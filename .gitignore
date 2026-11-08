@@ -1,0 +1,22 @@
+# macOS / Finder 元数据
+.DS_Store
+._*
+__MACOSX/
+.AppleDouble
+.Spotlight-V100
+.Trashes
+
+# 本机构建中间产物
+.build/
+*.o
+*.swiftmodule
+
+# 构建出的 .app 本体（DMG / ZIP 已作为产物保留）
+*.app/
+
+# 编辑器 / 临时文件
+*.swp
+*~
+.idea/
+.vscode/
+*.log

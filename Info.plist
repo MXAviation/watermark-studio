@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  批量水印工作台 / Batch Watermark Studio
+  Copyright (c) 2026 KYO4926 · SPDX-License-Identifier: MIT
+-->
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>zh_CN</string>
+	<key>CFBundleDisplayName</key>
+	<string>批量水印工作台</string>
+	<key>CFBundleName</key>
+	<string>批量水印工作台</string>
+	<key>CFBundleExecutable</key>
+	<string>WatermarkStudio</string>
+	<key>CFBundleIdentifier</key>
+	<string>dev.kyo4926.watermarkstudio</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>12.0</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.productivity</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSSupportsAutomaticTermination</key>
+	<true/>
+	<key>NSSupportsSuddenTermination</key>
+	<false/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 KYO4926. Licensed under the MIT License.</string>
+	<key>CFBundleGetInfoString</key>
+	<string>批量水印工作台 1.0 · Developer KYO4926 · MIT License · 本地处理，不上传数据</string>
+</dict>
+</plist>
